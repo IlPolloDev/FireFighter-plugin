@@ -1,9 +1,9 @@
- name: FireFighter
+ name:Pompieri
  version: ${version}
- description: A roleplay plugin that allows players to play as firefighters. 
- author: Tommy_T0mmY
+ description: Plugin per metropolis, sviluppato da ItzChiken 
+ author: ItzChiken
  main: com.github.tommyt0mmy.firefighter.FireFighter
- prefix: FireFighter
+ prefix: Pompieri
  api-version: 1.13
  commands:
    firefighter:
